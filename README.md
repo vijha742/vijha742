@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
-- Hi! I am [Vikas Jha](https://github.com/vijha742). I am a student currently doing udergraduate studies in Technology.
+- Hi! I am [Vikas Jha](https://github.com/vijha742). I am a student currently doing undergraduate studies in Technology.
 - I'm currently a begineer, looking into various domains of technology and Tech stacks, to find a suitable role and Toolset for me to deepdive with, into this Integrated Chip powered world.
 - I'm currently learning C to understand it's semantics, how layered program execution is and how it works with hardware.
 - I'm very interested to talk on how tech takes shape in corporate world, what are the opportunities available and how to delve into it. To rather rephrase it, I'm looking for seniors who can guide me as well as people to collaborate with who've the same zeal to learn and create something which aids the people throughout the world.
