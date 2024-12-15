@@ -1,7 +1,7 @@
-Hey there, I'm Vikas jha. I'm an UnderGrad, a maker for the users and tech enthusiast. Check out my work
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&duration=3000&center=true&vCenter=true&width=435&lines=Hi!+I+am+Vikas+Jha...;An+aspiring+Dev)](https://git.io/typing-svg)
+Hey there, I'm Vikas jha. I'm an UnderGrad, a maker for the users and tech enthusiast. Check out my works here...
+<!---[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&duration=3000&center=true&vCenter=true&width=435&lines=Hi!+I+am+Vikas+Jha...;An+aspiring+Dev)](https://git.io/typing-svg)--->
 <!---[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/dominusteleios) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/Vijha742?logo=GitHub&style=for-the-badge)](https://github.com/Vijha742) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/Vijha742?logo=github&style=for-the-badge)](https://github.com/Vijha742) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/Vijha742?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/Vijha742)--->
-
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=40&pause=1000&color=FFFFFFFF&background=000000FF&center=true&width=1100&height=75&lines=Hello+I'm+Vikas+Jha...;An+aspiring+Dev" alt="Hello, I'm YourName"></div>
 # 👋 &nbsp;Hi there
 
 I'm a software dev based in Faridabad, India. I enjoy coding projects that make tech hassle free for everyone. My defintion for successful product is something that just gets embedded into muscle meory of user.I am deeply into stories, movies, shows,books, poetry and obviously Linux and open source. You can find me on Twitter [@Dominusteleios](https://twitter.com/dominusteleios). Feel free to tweet me any time.
