@@ -23,5 +23,5 @@ I'm currently working on [@Event-Management](https://github.com/vijha742/Event-M
 
 ## 📊 &nbsp;Stats
 ![Vikas' Github Stats](https://github-readme-stats.vercel.app/api?username=Vijha742&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vijha742&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=vijha742&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
