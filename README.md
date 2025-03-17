@@ -14,14 +14,24 @@ I'm currently working on [@Event-Management](https://github.com/vijha742/Event-M
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>&nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="50" height="50"/>&nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" height="50"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" height="50"/>
 &nbsp;
-
-## 🖥 &nbsp;Past work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijha742&repo=TaskMate&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Vijha742/TaskMate)  &nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijha742&repo=Java_MOOC&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Vijha742/Java_MOOC) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijha742&repo=Event-Management-project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Vijha742/Event-Management-project)
+<details>
+  <summary>
+    <h2>
+      🖥 &nbsp;Past work
+    </h2>
+  </summary>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vijha742&repo=TaskMate&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vijha742&repo=Java_MOOC&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vijha742&repo=Event-Management-project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6">
+</details>
 
 &nbsp;
-
-## 📊 &nbsp;Stats
-![Vikas' Github Stats](https://github-readme-stats.vercel.app/api?username=Vijha742&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=vijha742&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+<details>
+  <summary>
+    <h2>
+      📊 &nbsp;Stats
+    </h2>
+  </summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=vijha742&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijha742&theme=tokyonight&hide_border=true">
+</details>
